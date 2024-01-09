@@ -1,1 +1,1 @@
-cyclonedds-cxx: 0.10.4
+CycloneDDS-CXX: 0.10.4
